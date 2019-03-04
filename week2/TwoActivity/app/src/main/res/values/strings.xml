@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ToActivity</string>
+    <string name="app_name">TwoActivity</string>
     <string name="button_main">Send</string>
     <string name="editText_main">Name</string>
     <string name="text_header">Message Received</string>
